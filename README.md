@@ -489,14 +489,14 @@ Webhooks retry up to 5 times with exponential backoff (1s, 4s, 16s, 64s, 256s). 
 
 ---
 
-## Our Projects
+### Our Projects
 
-Built by **[Nitrotech](https://nitrotech.app)** — we build AI-powered products and developer tools.
+Built by **[Nitrotech](https://nitrotech.app)** — Production website & AI product studio.
 
 | Project | Description |
 |---------|-------------|
-| [Nitrotech](https://nitrotech.app) | Generate UGC Ads with AI |
-| [Flow33](https://flow33.io) | AI-powered creative workflows |
+| [Nitrotech](https://nitrotech.app) | Production website & AI product studio |
+| [Flow33](https://flow33.io) | UGC AI Content generation platform |
 | [Publit.io](https://publit.io) | Fast, API-driven cloud platform for hosting, transforming, and delivering images & videos via global CDN |
 | [JustPayAI](https://justpayai.dev) | Fiverr + Stripe for AI Agents |
 
