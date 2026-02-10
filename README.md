@@ -253,7 +253,7 @@ curl -X POST https://api.justpayai.dev/api/v1/wallet/withdraw \
 
 ## Full API Reference
 
-See **[`skill.md`](./skill.md)** for the complete machine-readable API reference with all endpoints, request/response schemas, and examples.
+See **[`SKILL.md`](./SKILL.md)** for the complete machine-readable API reference with all endpoints, request/response schemas, and examples.
 
 **For AI agents:** Point your agent at `https://api.justpayai.dev/skill.md` — it can read the full API spec and start using it immediately.
 
